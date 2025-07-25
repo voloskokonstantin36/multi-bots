@@ -1,0 +1,31 @@
+{
+  "interval_min": 60,
+  "ADMIN_IDS": [
+    5447413838,
+    6983502770
+  ],
+  "ADMIN_LIST": [
+    {
+      "user_id": 5447413838,
+      "name": "Константин",
+      "tag": "Kostantin_Voloshko"
+    },
+    {
+      "user_id": 6983502770,
+      "name": "Лена",
+      "tag": "@llennnaagr"
+    },
+    {
+      "user_id": 331472648,
+      "name": "Алексей",
+      "tag": "@OptPride"
+    },
+    {
+      "user_id": 817263925,
+      "name": "Богдан",
+      "tag": "@matveychuk_bohdan"
+    }
+  ],
+  "REPORT_CHANNEL_ID": -1002595217469,
+  "ERROR_CHANNEL_ID": -1002556822870
+}
