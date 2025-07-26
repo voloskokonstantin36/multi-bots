@@ -770,11 +770,16 @@ application.add_handler(CommandHandler("start", start))
 application.add_handler(CallbackQueryHandler(callback_handler))
 application.add_handler(MessageHandler(filters.ALL, message_handler))
 
+import asyncio
+
+async def scheduled_job():
+    await scheduled_report(application.bot, application.bot_data)
+
 # Планировщик
 scheduler = AsyncIOScheduler()
 hour, minute = map(int, cfg.get("report_time", "17:00").split(":"))
 scheduler.add_job(
-    lambda: scheduled_report(application.bot, application.bot_data),
+    scheduled_job,
     "cron", hour=hour, minute=minute, timezone=pytz.timezone("Europe/Kiev")
 )
 
