@@ -361,41 +361,45 @@ async def send_reports(bot: Bot, path: Path, to='both'):
             print(f"⚠️ Не удалось удалить CSV файл: {e}")
 
 async def auto_report_loop(bot: Bot):
+    sent_today_mgr = False     # защита для руководителя
+    last_sent_hour_emp = None  # защита от двойной отправки менеджерам
+
     while True:
         now = datetime.now(KYIV_TZ)
-        
-        # Получаем время следующего часа (граница каждого часа)
-        next_hour = (now + timedelta(hours=1)).replace(minute=0, second=0, microsecond=0)
-        
-        # Вычисляем сколько секунд осталось до следующего часа
-        wait_seconds = (next_hour - now).total_seconds()
-        
-        print(f"⏳ Ожидаем до {next_hour.strftime('%H:%M')} для отправки автоотчёта...")
-        
-        # Ожидаем до следующего часа
-        await asyncio.sleep(wait_seconds)
+        current_time_str = now.strftime("%H:%M")
 
-        # После наступления следующего часа выполняем отправку отчёта
-        current = datetime.now(KYIV_TZ)
-        if 9 <= current.hour <= 21:
+        # Менеджерам — каждый час, один раз
+        if now.minute == 0 and 9 <= now.hour <= 21:
+            if last_sent_hour_emp != now.hour:
+                try:
+                    print(f"📤 Отправка отчёта менеджерам в {current_time_str}")
+                    path = fetch_outgoing_calls_binotel_halfhour()
+                    if path:
+                        await send_reports(bot, path, to='emp')
+                        last_sent_hour_emp = now.hour
+                    else:
+                        print("⚠️ Не удалось получить CSV — отчёт не отправлен.")
+                except Exception as e:
+                    print(f"❌ Ошибка при отправке отчёта менеджерам: {e}")
+
+        # Руководителю — только в заданное время, один раз в день
+        if current_time_str == manager_report_time and not sent_today_mgr:
             try:
-                print(f"📤 Отправка автоотчёта в {current.strftime('%H:%M')}")
+                print(f"📤 Отправка отчёта руководителю в {current_time_str}")
                 path = fetch_outgoing_calls_binotel_halfhour()
                 if path:
-                    await send_reports(bot, path, to='emp')  # Отправка отчёта менеджерам
+                    await send_reports(bot, path, to='mgr')
+                    sent_today_mgr = True
                 else:
                     print("⚠️ Не удалось получить CSV — отчёт не отправлен.")
             except Exception as e:
-                print(f"❌ Ошибка при отправке автоотчёта: {e}")
-                if ERROR_CHANNEL_ID:
-                    try:
-                        await bot.send_message(
-                            chat_id=int(ERROR_CHANNEL_ID),
-                            text=f"❌ Ошибка при отправке автоотчёта в {current.strftime('%H:%M')}:\n<code>{e}</code>",
-                            parse_mode='HTML'
-                        )
-                    except Exception:
-                        pass
+                print(f"❌ Ошибка при отправке отчёта руководителю: {e}")
+
+        # Сброс флага отправки для руководителя в полночь
+        if current_time_str == "00:00":
+            sent_today_mgr = False
+
+        await asyncio.sleep(30)
 
 # === Импорты ===
 from fastapi import Request
