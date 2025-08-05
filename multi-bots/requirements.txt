@@ -6,7 +6,7 @@ pandas==2.2.2
 requests
 python-dotenv==1.0.1
 apscheduler==3.10.4
-httpx==0.27.0
+httpx==0.26.0
 pytz
 openpyxl
 xlrd
@@ -14,3 +14,4 @@ numpy
 matplotlib
 aiofiles==23.2.1
 aiohttp
+
