@@ -757,7 +757,8 @@ ERROR_CHANNEL_ID = int(os.getenv("BOT2_ERROR_CHANNEL_ID", "0"))
 cfg = load_config()
 cfg["bot_token"] = BOT_TOKEN
 cfg["error_channel"] = ERROR_CHANNEL_ID
-WEBHOOK_DOMAIN = os.getenv("WEBHOOK_DOMAIN")  # например: https://yourdomain.com
+# Берём домен из переменной WEBHOOK_DOMAIN, либо из RENDER_EXTERNAL_URL на Render
+WEBHOOK_DOMAIN = os.getenv("WEBHOOK_DOMAIN") or os.getenv("RENDER_EXTERNAL_URL") or "https://yourdomain.com"
 WEBHOOK_PATH = "/webhook/bot2"
 WEBHOOK_URL = f"{WEBHOOK_DOMAIN}{WEBHOOK_PATH}"
 
@@ -810,3 +811,4 @@ async def handle_webhook(request: Request):
 async def handle_shutdown():
     await application.stop()
     await application.shutdown()
+
