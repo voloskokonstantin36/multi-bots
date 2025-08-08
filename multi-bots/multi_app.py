@@ -6,7 +6,11 @@ import uvicorn
 # Загрузка переменных окружения
 load_dotenv()
 
-WEBHOOK_BASE_URL = os.getenv("WEBHOOK_BASE_URL")  # например: https://yourdomain.com
+# Берём URL из .env или из переменной Render
+WEBHOOK_BASE_URL = os.getenv("WEBHOOK_BASE_URL") or os.getenv("RENDER_EXTERNAL_URL")
+
+if not WEBHOOK_BASE_URL:
+    print("⚠️  WEBHOOK_BASE_URL не задан! Вебхуки не будут установлены.")
 
 # === Импорт ботов ===
 from bot1.zvonki_single_run import (
@@ -86,3 +90,4 @@ async def webhook_router(bot_name: str, request: Request):
 
 if __name__ == "__main__":
     uvicorn.run("multi_app:app", host="0.0.0.0", port=8000, reload=False)
+
