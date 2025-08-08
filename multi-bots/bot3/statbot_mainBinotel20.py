@@ -61,7 +61,8 @@ BOT_TOKEN = os.getenv("BOT3_TOKEN")
 BASE_DIR = Path(__file__).resolve().parent
 
 # Читаем переменные окружения
-WEBHOOK_DOMAIN = os.getenv("WEBHOOK_DOMAIN")  # https://yourdomain.com
+# Берём домен из переменной WEBHOOK_DOMAIN, либо из RENDER_EXTERNAL_URL на Render
+WEBHOOK_DOMAIN = os.getenv("WEBHOOK_DOMAIN") or os.getenv("RENDER_EXTERNAL_URL") or "https://yourdomain.com"
 WEBHOOK_PATH = "/webhook/bot3"
 WEBHOOK_URL = f"{WEBHOOK_DOMAIN}{WEBHOOK_PATH}"
 ERROR_CHANNEL_ID = int(os.getenv("ERROR_CHANNEL_ID", "-1"))  # если не задан, будет -1
@@ -1867,3 +1868,4 @@ async def handle_webhook(request: Request):
 async def handle_shutdown():
     await application.stop()
     await application.shutdown()
+
