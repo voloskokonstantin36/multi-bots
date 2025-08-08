@@ -48,5 +48,6 @@ ENV PYTHONUNBUFFERED=1
 EXPOSE 8000
 
 # Команда запуска FastAPI
-CMD ["uvicorn", "multi_app:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["sh", "-c", "uvicorn multi_app:app --host 0.0.0.0 --port $PORT"]
+
 
