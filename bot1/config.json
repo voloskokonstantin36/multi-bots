@@ -1,0 +1,8 @@
+{
+  "interval_min": 60,
+
+  "telegram": {
+    "employee_chat_id": -1002131275087,
+    "manager_chat_id":  -1002522119925
+  }
+}

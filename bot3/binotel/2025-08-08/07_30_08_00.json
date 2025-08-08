@@ -1,0 +1,1875 @@
+{
+  "status": "success",
+  "callDetails": {
+    "5973806974": {
+      "companyID": "62710",
+      "generalCallID": "5973806974",
+      "callID": "5973806974",
+      "startTime": "1754629199",
+      "callType": "1",
+      "internalNumber": "1023",
+      "internalAdditionalData": "",
+      "externalNumber": "0977425967",
+      "waitsec": "45",
+      "billsec": "0",
+      "disposition": "BUSY",
+      "recordingStatus": "",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-44(МС)",
+        "email": "chernishov.maksim268@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0675226946"
+      },
+      "historyData": [
+        {
+          "waitsec": "45",
+          "billsec": "0",
+          "disposition": "BUSY",
+          "pbxNumberData": {
+            "number": "0675226946"
+          }
+        }
+      ]
+    },
+    "5973806835": {
+      "companyID": "62710",
+      "generalCallID": "5973806835",
+      "callID": "5973806835",
+      "startTime": "1754629191",
+      "callType": "1",
+      "internalNumber": "1087",
+      "internalAdditionalData": "",
+      "externalNumber": "0508731066",
+      "waitsec": "27",
+      "billsec": "53",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-56(ОН)",
+        "email": "opanasnatalia14@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0500178801"
+      },
+      "historyData": [
+        {
+          "waitsec": "27",
+          "billsec": "53",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0500178801"
+          }
+        }
+      ]
+    },
+    "5973806796": {
+      "companyID": "62710",
+      "generalCallID": "5973806796",
+      "callID": "5973806796",
+      "startTime": "1754629189",
+      "callType": "1",
+      "internalNumber": "1090",
+      "internalAdditionalData": "",
+      "externalNumber": "0957227519",
+      "waitsec": "45",
+      "billsec": "0",
+      "disposition": "BUSY",
+      "recordingStatus": "",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-2(ПО)",
+        "email": "pidburtnijo@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0660422263"
+      },
+      "historyData": [
+        {
+          "waitsec": "45",
+          "billsec": "0",
+          "disposition": "BUSY",
+          "pbxNumberData": {
+            "number": "0660422263"
+          }
+        }
+      ]
+    },
+    "5973806786": {
+      "companyID": "62710",
+      "generalCallID": "5973806786",
+      "callID": "5973806786",
+      "startTime": "1754629189",
+      "callType": "1",
+      "internalNumber": "938",
+      "internalAdditionalData": "",
+      "externalNumber": "0676872704",
+      "waitsec": "10",
+      "billsec": "34",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-73 (ГК)",
+        "email": "kirillgribkov09@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0675394103"
+      },
+      "historyData": [
+        {
+          "waitsec": "10",
+          "billsec": "34",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0675394103"
+          }
+        }
+      ]
+    },
+    "5973806781": {
+      "companyID": "62710",
+      "generalCallID": "5973806781",
+      "callID": "5973806781",
+      "startTime": "1754629188",
+      "callType": "1",
+      "internalNumber": "1141",
+      "internalAdditionalData": "",
+      "externalNumber": "0965674607",
+      "waitsec": "45",
+      "billsec": "0",
+      "disposition": "BUSY",
+      "recordingStatus": "",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-41(ЗЕ)",
+        "email": "svetazemlana49@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0672563191"
+      },
+      "historyData": [
+        {
+          "waitsec": "45",
+          "billsec": "0",
+          "disposition": "BUSY",
+          "pbxNumberData": {
+            "number": "0672563191"
+          }
+        }
+      ]
+    },
+    "5973806682": {
+      "companyID": "62710",
+      "generalCallID": "5973806682",
+      "callID": "5973806682",
+      "startTime": "1754629182",
+      "callType": "1",
+      "internalNumber": "992",
+      "internalAdditionalData": "",
+      "externalNumber": "0506347452",
+      "waitsec": "13",
+      "billsec": "14",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-66(КЛ)",
+        "email": "vitaliikovalenko1105@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0660422316"
+      },
+      "historyData": [
+        {
+          "waitsec": "13",
+          "billsec": "14",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0660422316"
+          }
+        }
+      ]
+    },
+    "5973806550": {
+      "companyID": "62710",
+      "generalCallID": "5973806550",
+      "callID": "5973806550",
+      "startTime": "1754629173",
+      "callType": "1",
+      "internalNumber": "1129",
+      "internalAdditionalData": "",
+      "externalNumber": "0660412871",
+      "waitsec": "28",
+      "billsec": "32",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-8(РО)",
+        "email": "rolenko.x@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0504018178"
+      },
+      "historyData": [
+        {
+          "waitsec": "28",
+          "billsec": "32",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0504018178"
+          }
+        }
+      ]
+    },
+    "5973806538": {
+      "companyID": "62710",
+      "generalCallID": "5973806538",
+      "callID": "5973806538",
+      "startTime": "1754629173",
+      "callType": "1",
+      "internalNumber": "1192",
+      "internalAdditionalData": "",
+      "externalNumber": "0639891376",
+      "waitsec": "15",
+      "billsec": "52",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-46(ГД)",
+        "email": "darinagureeva14@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0634596626"
+      },
+      "historyData": [
+        {
+          "waitsec": "15",
+          "billsec": "52",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0634596626"
+          }
+        }
+      ]
+    },
+    "5973806400": {
+      "companyID": "62710",
+      "generalCallID": "5973806400",
+      "callID": "5973806400",
+      "startTime": "1754629163",
+      "callType": "1",
+      "internalNumber": "1023",
+      "internalAdditionalData": "",
+      "externalNumber": "0965823837",
+      "waitsec": "23",
+      "billsec": "11",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-44(МС)",
+        "email": "chernishov.maksim268@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0671403143"
+      },
+      "historyData": [
+        {
+          "waitsec": "23",
+          "billsec": "11",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0671403143"
+          }
+        }
+      ]
+    },
+    "5973806385": {
+      "companyID": "62710",
+      "generalCallID": "5973806385",
+      "callID": "5973806385",
+      "startTime": "1754629161",
+      "callType": "1",
+      "internalNumber": "923",
+      "internalAdditionalData": "",
+      "externalNumber": "0504822112",
+      "waitsec": "20",
+      "billsec": "21",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-23(ЮП)",
+        "email": "pavlovyura1488@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0500142334"
+      },
+      "historyData": [
+        {
+          "waitsec": "20",
+          "billsec": "21",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0500142334"
+          }
+        }
+      ]
+    },
+    "5973806319": {
+      "companyID": "62710",
+      "generalCallID": "5973806319",
+      "callID": "5973806319",
+      "startTime": "1754629158",
+      "callType": "1",
+      "internalNumber": "924",
+      "internalAdditionalData": "",
+      "externalNumber": "0966752177",
+      "waitsec": "36",
+      "billsec": "24",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-47(ДН)",
+        "email": "nataliadyakova7769@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0675227114"
+      },
+      "historyData": [
+        {
+          "waitsec": "36",
+          "billsec": "24",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0675227114"
+          }
+        }
+      ]
+    },
+    "5973805984": {
+      "companyID": "62710",
+      "generalCallID": "5973805984",
+      "callID": "5973805984",
+      "startTime": "1754629140",
+      "callType": "1",
+      "internalNumber": "1116",
+      "internalAdditionalData": "",
+      "externalNumber": "0967557189",
+      "waitsec": "25",
+      "billsec": "36",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-50 (РЯ)",
+        "email": "serg.yaroviy@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0675542506"
+      },
+      "historyData": [
+        {
+          "waitsec": "25",
+          "billsec": "36",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0675542506"
+          }
+        }
+      ]
+    },
+    "5973805818": {
+      "companyID": "62710",
+      "generalCallID": "5973805818",
+      "callID": "5973805818",
+      "startTime": "1754629132",
+      "callType": "1",
+      "internalNumber": "992",
+      "internalAdditionalData": "",
+      "externalNumber": "0967512854",
+      "waitsec": "10",
+      "billsec": "28",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-66(КЛ)",
+        "email": "vitaliikovalenko1105@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0673143877"
+      },
+      "historyData": [
+        {
+          "waitsec": "10",
+          "billsec": "28",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0673143877"
+          }
+        }
+      ]
+    },
+    "5973805800": {
+      "companyID": "62710",
+      "generalCallID": "5973805800",
+      "callID": "5973805800",
+      "startTime": "1754629131",
+      "callType": "1",
+      "internalNumber": "1141",
+      "internalAdditionalData": "",
+      "externalNumber": "0734445462",
+      "waitsec": "17",
+      "billsec": "18",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-41(ЗЕ)",
+        "email": "svetazemlana49@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0637070668"
+      },
+      "historyData": [
+        {
+          "waitsec": "17",
+          "billsec": "18",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0637070668"
+          }
+        }
+      ]
+    },
+    "5973805649": {
+      "companyID": "62710",
+      "generalCallID": "5973805649",
+      "callID": "5973805649",
+      "startTime": "1754629123",
+      "callType": "1",
+      "internalNumber": "1129",
+      "internalAdditionalData": "",
+      "externalNumber": "0501704963",
+      "waitsec": "45",
+      "billsec": "0",
+      "disposition": "BUSY",
+      "recordingStatus": "",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-8(РО)",
+        "email": "rolenko.x@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0500178885"
+      },
+      "historyData": [
+        {
+          "waitsec": "45",
+          "billsec": "0",
+          "disposition": "BUSY",
+          "pbxNumberData": {
+            "number": "0500178885"
+          }
+        }
+      ]
+    },
+    "5973805640": {
+      "companyID": "62710",
+      "generalCallID": "5973805640",
+      "callID": "5973805640",
+      "startTime": "1754629122",
+      "callType": "1",
+      "internalNumber": "1032",
+      "internalAdditionalData": "",
+      "externalNumber": "0508530088",
+      "waitsec": "10",
+      "billsec": "331",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "СЗ",
+        "email": "zagvoyskiy.sergey0508@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0504463037"
+      },
+      "historyData": [
+        {
+          "waitsec": "10",
+          "billsec": "331",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0504463037"
+          }
+        }
+      ]
+    },
+    "5973805629": {
+      "companyID": "62710",
+      "generalCallID": "5973805629",
+      "callID": "5973805629",
+      "startTime": "1754629122",
+      "callType": "1",
+      "internalNumber": "923",
+      "internalAdditionalData": "",
+      "externalNumber": "0978005540",
+      "waitsec": "16",
+      "billsec": "21",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-23(ЮП)",
+        "email": "pavlovyura1488@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0675394122"
+      },
+      "historyData": [
+        {
+          "waitsec": "16",
+          "billsec": "21",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0675394122"
+          }
+        }
+      ]
+    },
+    "5973805605": {
+      "companyID": "62710",
+      "generalCallID": "5973805605",
+      "callID": "5973805605",
+      "startTime": "1754629120",
+      "callType": "1",
+      "internalNumber": "1090",
+      "internalAdditionalData": "",
+      "externalNumber": "0938792432",
+      "waitsec": "57",
+      "billsec": "0",
+      "disposition": "CANCEL",
+      "recordingStatus": "",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-2(ПО)",
+        "email": "pidburtnijo@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0932989421"
+      },
+      "historyData": [
+        {
+          "waitsec": "57",
+          "billsec": "0",
+          "disposition": "CANCEL",
+          "pbxNumberData": {
+            "number": "0932989421"
+          }
+        }
+      ]
+    },
+    "5973805312": {
+      "companyID": "62710",
+      "generalCallID": "5973805312",
+      "callID": "5973805312",
+      "startTime": "1754629116",
+      "callType": "1",
+      "internalNumber": "938",
+      "internalAdditionalData": "",
+      "externalNumber": "0662153294",
+      "waitsec": "28",
+      "billsec": "41",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-73 (ГК)",
+        "email": "kirillgribkov09@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0660422374"
+      },
+      "historyData": [
+        {
+          "waitsec": "28",
+          "billsec": "41",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0660422374"
+          }
+        }
+      ]
+    },
+    "5973804918": {
+      "companyID": "62710",
+      "generalCallID": "5973804918",
+      "callID": "5973804918",
+      "startTime": "1754629111",
+      "callType": "1",
+      "internalNumber": "924",
+      "internalAdditionalData": "",
+      "externalNumber": "0999414875",
+      "waitsec": "23",
+      "billsec": "22",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-47(ДН)",
+        "email": "nataliadyakova7769@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0506880301"
+      },
+      "historyData": [
+        {
+          "waitsec": "23",
+          "billsec": "22",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0506880301"
+          }
+        }
+      ]
+    },
+    "5973804821": {
+      "companyID": "62710",
+      "generalCallID": "5973804821",
+      "callID": "5973804821",
+      "startTime": "1754629109",
+      "callType": "1",
+      "internalNumber": "1023",
+      "internalAdditionalData": "",
+      "externalNumber": "0974820217",
+      "waitsec": "53",
+      "billsec": "0",
+      "disposition": "CANCEL",
+      "recordingStatus": "",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-44(МС)",
+        "email": "chernishov.maksim268@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0678075210"
+      },
+      "historyData": [
+        {
+          "waitsec": "53",
+          "billsec": "0",
+          "disposition": "CANCEL",
+          "pbxNumberData": {
+            "number": "0678075210"
+          }
+        }
+      ]
+    },
+    "5973804752": {
+      "companyID": "62710",
+      "generalCallID": "5973804752",
+      "callID": "5973804752",
+      "startTime": "1754629105",
+      "callType": "1",
+      "internalNumber": "1116",
+      "internalAdditionalData": "",
+      "externalNumber": "0974304226",
+      "waitsec": "16",
+      "billsec": "16",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-50 (РЯ)",
+        "email": "serg.yaroviy@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0678170166"
+      },
+      "historyData": [
+        {
+          "waitsec": "16",
+          "billsec": "16",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0678170166"
+          }
+        }
+      ]
+    },
+    "5973804601": {
+      "companyID": "62710",
+      "generalCallID": "5973804601",
+      "callID": "5973804601",
+      "startTime": "1754629095",
+      "callType": "1",
+      "internalNumber": "1087",
+      "internalAdditionalData": "",
+      "externalNumber": "0968156158",
+      "waitsec": "23",
+      "billsec": "70",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-56(ОН)",
+        "email": "opanasnatalia14@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0671196343"
+      },
+      "historyData": [
+        {
+          "waitsec": "23",
+          "billsec": "70",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0671196343"
+          }
+        }
+      ]
+    },
+    "5973804448": {
+      "companyID": "62710",
+      "generalCallID": "5973804448",
+      "callID": "5973804448",
+      "startTime": "1754629086",
+      "callType": "1",
+      "internalNumber": "938",
+      "internalAdditionalData": "",
+      "externalNumber": "0952185736",
+      "waitsec": "10",
+      "billsec": "18",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-73 (ГК)",
+        "email": "kirillgribkov09@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0504018132"
+      },
+      "historyData": [
+        {
+          "waitsec": "10",
+          "billsec": "18",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0504018132"
+          }
+        }
+      ]
+    },
+    "5973804395": {
+      "companyID": "62710",
+      "generalCallID": "5973804395",
+      "callID": "5973804395",
+      "startTime": "1754629083",
+      "callType": "1",
+      "internalNumber": "923",
+      "internalAdditionalData": "",
+      "externalNumber": "0637249656",
+      "waitsec": "19",
+      "billsec": "17",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-23(ЮП)",
+        "email": "pavlovyura1488@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0637070648"
+      },
+      "historyData": [
+        {
+          "waitsec": "19",
+          "billsec": "17",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0637070648"
+          }
+        }
+      ]
+    },
+    "5973804230": {
+      "companyID": "62710",
+      "generalCallID": "5973804230",
+      "callID": "5973804230",
+      "startTime": "1754629074",
+      "callType": "1",
+      "internalNumber": "1192",
+      "internalAdditionalData": "",
+      "externalNumber": "0973945816",
+      "waitsec": "36",
+      "billsec": "59",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-46(ГД)",
+        "email": "darinagureeva14@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0672563466"
+      },
+      "historyData": [
+        {
+          "waitsec": "36",
+          "billsec": "59",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0672563466"
+          }
+        }
+      ]
+    },
+    "5973804200": {
+      "companyID": "62710",
+      "generalCallID": "5973804200",
+      "callID": "5973804200",
+      "startTime": "1754629072",
+      "callType": "1",
+      "internalNumber": "992",
+      "internalAdditionalData": "",
+      "externalNumber": "0977031249",
+      "waitsec": "33",
+      "billsec": "24",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-66(КЛ)",
+        "email": "vitaliikovalenko1105@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0671179776"
+      },
+      "historyData": [
+        {
+          "waitsec": "33",
+          "billsec": "24",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0671179776"
+          }
+        }
+      ]
+    },
+    "5973804021": {
+      "companyID": "62710",
+      "generalCallID": "5973804021",
+      "callID": "5973804021",
+      "startTime": "1754629061",
+      "callType": "1",
+      "internalNumber": "924",
+      "internalAdditionalData": "",
+      "externalNumber": "0679040228",
+      "waitsec": "20",
+      "billsec": "22",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-47(ДН)",
+        "email": "nataliadyakova7769@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0673146859"
+      },
+      "historyData": [
+        {
+          "waitsec": "20",
+          "billsec": "22",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0673146859"
+          }
+        }
+      ]
+    },
+    "5973803933": {
+      "companyID": "62710",
+      "generalCallID": "5973803933",
+      "callID": "5973803933",
+      "startTime": "1754629054",
+      "callType": "1",
+      "internalNumber": "923",
+      "internalAdditionalData": "",
+      "externalNumber": "0661581578",
+      "waitsec": "13",
+      "billsec": "14",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-23(ЮП)",
+        "email": "pavlovyura1488@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0506880151"
+      },
+      "historyData": [
+        {
+          "waitsec": "13",
+          "billsec": "14",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0506880151"
+          }
+        }
+      ]
+    },
+    "5973803916": {
+      "companyID": "62710",
+      "generalCallID": "5973803916",
+      "callID": "5973803916",
+      "startTime": "1754629053",
+      "callType": "1",
+      "internalNumber": "1116",
+      "internalAdditionalData": "",
+      "externalNumber": "0971324319",
+      "waitsec": "15",
+      "billsec": "18",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-50 (РЯ)",
+        "email": "serg.yaroviy@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0673146854"
+      },
+      "historyData": [
+        {
+          "waitsec": "15",
+          "billsec": "18",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0673146854"
+          }
+        }
+      ]
+    },
+    "5973803833": {
+      "companyID": "62710",
+      "generalCallID": "5973803833",
+      "callID": "5973803833",
+      "startTime": "1754629047",
+      "callType": "1",
+      "internalNumber": "938",
+      "internalAdditionalData": "",
+      "externalNumber": "0689316740",
+      "waitsec": "19",
+      "billsec": "19",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-73 (ГК)",
+        "email": "kirillgribkov09@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0678075305"
+      },
+      "historyData": [
+        {
+          "waitsec": "19",
+          "billsec": "19",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0678075305"
+          }
+        }
+      ]
+    },
+    "5973803819": {
+      "companyID": "62710",
+      "generalCallID": "5973803819",
+      "callID": "5973803819",
+      "startTime": "1754629046",
+      "callType": "1",
+      "internalNumber": "1023",
+      "internalAdditionalData": "",
+      "externalNumber": "0955594560",
+      "waitsec": "26",
+      "billsec": "23",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-44(МС)",
+        "email": "chernishov.maksim268@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0660422263"
+      },
+      "historyData": [
+        {
+          "waitsec": "26",
+          "billsec": "23",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0660422263"
+          }
+        }
+      ]
+    },
+    "5973803798": {
+      "companyID": "62710",
+      "generalCallID": "5973803798",
+      "callID": "5973803798",
+      "startTime": "1754629044",
+      "callType": "1",
+      "internalNumber": "1129",
+      "internalAdditionalData": "",
+      "externalNumber": "0970956440",
+      "waitsec": "20",
+      "billsec": "25",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-8(РО)",
+        "email": "rolenko.x@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0675394126"
+      },
+      "historyData": [
+        {
+          "waitsec": "20",
+          "billsec": "25",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0675394126"
+          }
+        }
+      ]
+    },
+    "5973803694": {
+      "companyID": "62710",
+      "generalCallID": "5973803694",
+      "callID": "5973803694",
+      "startTime": "1754629037",
+      "callType": "1",
+      "internalNumber": "992",
+      "internalAdditionalData": "",
+      "externalNumber": "0684171204",
+      "waitsec": "13",
+      "billsec": "16",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-66(КЛ)",
+        "email": "vitaliikovalenko1105@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0675342518"
+      },
+      "historyData": [
+        {
+          "waitsec": "13",
+          "billsec": "16",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0675342518"
+          }
+        }
+      ]
+    },
+    "5973803544": {
+      "companyID": "62710",
+      "generalCallID": "5973803544",
+      "callID": "5973803544",
+      "startTime": "1754629025",
+      "callType": "1",
+      "internalNumber": "1192",
+      "internalAdditionalData": "",
+      "externalNumber": "0975815058",
+      "waitsec": "14",
+      "billsec": "32",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-46(ГД)",
+        "email": "darinagureeva14@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0675394151"
+      },
+      "historyData": [
+        {
+          "waitsec": "14",
+          "billsec": "32",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0675394151"
+          }
+        }
+      ]
+    },
+    "5973803491": {
+      "companyID": "62710",
+      "generalCallID": "5973803491",
+      "callID": "5973803491",
+      "startTime": "1754629022",
+      "callType": "1",
+      "internalNumber": "923",
+      "internalAdditionalData": "",
+      "externalNumber": "0683859740",
+      "waitsec": "13",
+      "billsec": "17",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-23(ЮП)",
+        "email": "pavlovyura1488@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0672563191"
+      },
+      "historyData": [
+        {
+          "waitsec": "13",
+          "billsec": "17",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0672563191"
+          }
+        }
+      ]
+    },
+    "5973803361": {
+      "companyID": "62710",
+      "generalCallID": "5973803361",
+      "callID": "5973803361",
+      "startTime": "1754629014",
+      "callType": "1",
+      "internalNumber": "924",
+      "internalAdditionalData": "",
+      "externalNumber": "0687431363",
+      "waitsec": "14",
+      "billsec": "31",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-47(ДН)",
+        "email": "nataliadyakova7769@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0678170167"
+      },
+      "historyData": [
+        {
+          "waitsec": "14",
+          "billsec": "31",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0678170167"
+          }
+        }
+      ]
+    },
+    "5973803312": {
+      "companyID": "62710",
+      "generalCallID": "5973803312",
+      "callID": "5973803312",
+      "startTime": "1754629011",
+      "callType": "1",
+      "internalNumber": "1129",
+      "internalAdditionalData": "",
+      "externalNumber": "0993174140",
+      "waitsec": "7",
+      "billsec": "0",
+      "disposition": "BUSY",
+      "recordingStatus": "",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-8(РО)",
+        "email": "rolenko.x@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0500142335"
+      },
+      "historyData": [
+        {
+          "waitsec": "7",
+          "billsec": "0",
+          "disposition": "BUSY",
+          "pbxNumberData": {
+            "number": "0500142335"
+          }
+        }
+      ]
+    },
+    "5973803294": {
+      "companyID": "62710",
+      "generalCallID": "5973803294",
+      "callID": "5973803294",
+      "startTime": "1754629009",
+      "callType": "1",
+      "internalNumber": "1116",
+      "internalAdditionalData": "",
+      "externalNumber": "0676602947",
+      "waitsec": "25",
+      "billsec": "16",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-50 (РЯ)",
+        "email": "serg.yaroviy@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0675556219"
+      },
+      "historyData": [
+        {
+          "waitsec": "25",
+          "billsec": "16",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0675556219"
+          }
+        }
+      ]
+    },
+    "5973803268": {
+      "companyID": "62710",
+      "generalCallID": "5973803268",
+      "callID": "5973803268",
+      "startTime": "1754629007",
+      "callType": "1",
+      "internalNumber": "1087",
+      "internalAdditionalData": "",
+      "externalNumber": "0962738855",
+      "waitsec": "20",
+      "billsec": "25",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-56(ОН)",
+        "email": "opanasnatalia14@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0675394119"
+      },
+      "historyData": [
+        {
+          "waitsec": "20",
+          "billsec": "25",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0675394119"
+          }
+        }
+      ]
+    },
+    "5973803265": {
+      "companyID": "62710",
+      "generalCallID": "5973803265",
+      "callID": "5973803265",
+      "startTime": "1754629007",
+      "callType": "1",
+      "internalNumber": "992",
+      "internalAdditionalData": "",
+      "externalNumber": "0966309930",
+      "waitsec": "9",
+      "billsec": "14",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-66(КЛ)",
+        "email": "vitaliikovalenko1105@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0671105563"
+      },
+      "historyData": [
+        {
+          "waitsec": "9",
+          "billsec": "14",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0671105563"
+          }
+        }
+      ]
+    },
+    "5973803166": {
+      "companyID": "62710",
+      "generalCallID": "5973803166",
+      "callID": "5973803166",
+      "startTime": "1754629002",
+      "callType": "1",
+      "internalNumber": "938",
+      "internalAdditionalData": "",
+      "externalNumber": "0676079006",
+      "waitsec": "24",
+      "billsec": "20",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-73 (ГК)",
+        "email": "kirillgribkov09@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0672563696"
+      },
+      "historyData": [
+        {
+          "waitsec": "24",
+          "billsec": "20",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0672563696"
+          }
+        }
+      ]
+    },
+    "5973803082": {
+      "companyID": "62710",
+      "generalCallID": "5973803082",
+      "callID": "5973803082",
+      "startTime": "1754628996",
+      "callType": "1",
+      "internalNumber": "1023",
+      "internalAdditionalData": "",
+      "externalNumber": "0958217472",
+      "waitsec": "45",
+      "billsec": "0",
+      "disposition": "BUSY",
+      "recordingStatus": "",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-44(МС)",
+        "email": "chernishov.maksim268@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0500178885"
+      },
+      "historyData": [
+        {
+          "waitsec": "45",
+          "billsec": "0",
+          "disposition": "BUSY",
+          "pbxNumberData": {
+            "number": "0500178885"
+          }
+        }
+      ]
+    },
+    "5973802906": {
+      "companyID": "62710",
+      "generalCallID": "5973802906",
+      "callID": "5973802906",
+      "startTime": "1754628983",
+      "callType": "1",
+      "internalNumber": "1090",
+      "internalAdditionalData": "",
+      "externalNumber": "0664170288",
+      "waitsec": "19",
+      "billsec": "30",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-2(ПО)",
+        "email": "pidburtnijo@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0660422263"
+      },
+      "historyData": [
+        {
+          "waitsec": "19",
+          "billsec": "30",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0660422263"
+          }
+        }
+      ]
+    },
+    "5973802781": {
+      "companyID": "62710",
+      "generalCallID": "5973802781",
+      "callID": "5973802781",
+      "startTime": "1754628972",
+      "callType": "1",
+      "internalNumber": "1192",
+      "internalAdditionalData": "",
+      "externalNumber": "0993726677",
+      "waitsec": "45",
+      "billsec": "0",
+      "disposition": "BUSY",
+      "recordingStatus": "",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-46(ГД)",
+        "email": "darinagureeva14@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0660422302"
+      },
+      "historyData": [
+        {
+          "waitsec": "45",
+          "billsec": "0",
+          "disposition": "BUSY",
+          "pbxNumberData": {
+            "number": "0660422302"
+          }
+        }
+      ]
+    },
+    "5973802765": {
+      "companyID": "62710",
+      "generalCallID": "5973802765",
+      "callID": "5973802765",
+      "startTime": "1754628972",
+      "callType": "1",
+      "internalNumber": "923",
+      "internalAdditionalData": "",
+      "externalNumber": "0954184943",
+      "waitsec": "45",
+      "billsec": "0",
+      "disposition": "BUSY",
+      "recordingStatus": "",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-23(ЮП)",
+        "email": "pavlovyura1488@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0660422237"
+      },
+      "historyData": [
+        {
+          "waitsec": "45",
+          "billsec": "0",
+          "disposition": "BUSY",
+          "pbxNumberData": {
+            "number": "0660422237"
+          }
+        }
+      ]
+    },
+    "5973802764": {
+      "companyID": "62710",
+      "generalCallID": "5973802764",
+      "callID": "5973802764",
+      "startTime": "1754628972",
+      "callType": "1",
+      "internalNumber": "924",
+      "internalAdditionalData": "",
+      "externalNumber": "0509243594",
+      "waitsec": "14",
+      "billsec": "26",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-47(ДН)",
+        "email": "nataliadyakova7769@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0506880358"
+      },
+      "historyData": [
+        {
+          "waitsec": "14",
+          "billsec": "26",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0506880358"
+          }
+        }
+      ]
+    },
+    "5973802646": {
+      "companyID": "62710",
+      "generalCallID": "5973802646",
+      "callID": "5973802646",
+      "startTime": "1754628964",
+      "callType": "1",
+      "internalNumber": "938",
+      "internalAdditionalData": "",
+      "externalNumber": "0993382402",
+      "waitsec": "14",
+      "billsec": "20",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-73 (ГК)",
+        "email": "kirillgribkov09@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0500142334"
+      },
+      "historyData": [
+        {
+          "waitsec": "14",
+          "billsec": "20",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0500142334"
+          }
+        }
+      ]
+    },
+    "5973802598": {
+      "companyID": "62710",
+      "generalCallID": "5973802598",
+      "callID": "5973802598",
+      "startTime": "1754628960",
+      "callType": "1",
+      "internalNumber": "1116",
+      "internalAdditionalData": "",
+      "externalNumber": "0504439860",
+      "waitsec": "46",
+      "billsec": "0",
+      "disposition": "BUSY",
+      "recordingStatus": "",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-50 (РЯ)",
+        "email": "serg.yaroviy@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0506880155"
+      },
+      "historyData": [
+        {
+          "waitsec": "46",
+          "billsec": "0",
+          "disposition": "BUSY",
+          "pbxNumberData": {
+            "number": "0506880155"
+          }
+        }
+      ]
+    },
+    "5973802189": {
+      "companyID": "62710",
+      "generalCallID": "5973802189",
+      "callID": "5973802189",
+      "startTime": "1754628931",
+      "callType": "1",
+      "internalNumber": "923",
+      "internalAdditionalData": "",
+      "externalNumber": "0679884850",
+      "waitsec": "9",
+      "billsec": "26",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-23(ЮП)",
+        "email": "pavlovyura1488@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0675394103"
+      },
+      "historyData": [
+        {
+          "waitsec": "9",
+          "billsec": "26",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0675394103"
+          }
+        }
+      ]
+    },
+    "5973802112": {
+      "companyID": "62710",
+      "generalCallID": "5973802112",
+      "callID": "5973802112",
+      "startTime": "1754628924",
+      "callType": "1",
+      "internalNumber": "1192",
+      "internalAdditionalData": "",
+      "externalNumber": "0990231588",
+      "waitsec": "25",
+      "billsec": "22",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-46(ГД)",
+        "email": "darinagureeva14@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0660422383"
+      },
+      "historyData": [
+        {
+          "waitsec": "25",
+          "billsec": "22",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0660422383"
+          }
+        }
+      ]
+    },
+    "5973801998": {
+      "companyID": "62710",
+      "generalCallID": "5973801998",
+      "callID": "5973801998",
+      "startTime": "1754628913",
+      "callType": "1",
+      "internalNumber": "938",
+      "internalAdditionalData": "",
+      "externalNumber": "0962049103",
+      "waitsec": "45",
+      "billsec": "0",
+      "disposition": "BUSY",
+      "recordingStatus": "",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-73 (ГК)",
+        "email": "kirillgribkov09@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0675394122"
+      },
+      "historyData": [
+        {
+          "waitsec": "45",
+          "billsec": "0",
+          "disposition": "BUSY",
+          "pbxNumberData": {
+            "number": "0675394122"
+          }
+        }
+      ]
+    },
+    "5973801862": {
+      "companyID": "62710",
+      "generalCallID": "5973801862",
+      "callID": "5973801862",
+      "startTime": "1754628903",
+      "callType": "1",
+      "internalNumber": "1087",
+      "internalAdditionalData": "",
+      "externalNumber": "0962531976",
+      "waitsec": "15",
+      "billsec": "86",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-56(ОН)",
+        "email": "opanasnatalia14@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0675227114"
+      },
+      "historyData": [
+        {
+          "waitsec": "15",
+          "billsec": "86",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0675227114"
+          }
+        }
+      ]
+    },
+    "5973801837": {
+      "companyID": "62710",
+      "generalCallID": "5973801837",
+      "callID": "5973801837",
+      "startTime": "1754628900",
+      "callType": "1",
+      "internalNumber": "923",
+      "internalAdditionalData": "",
+      "externalNumber": "0508530088",
+      "waitsec": "12",
+      "billsec": "17",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ДЖ-23(ЮП)",
+        "email": "pavlovyura1488@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0506880301"
+      },
+      "historyData": [
+        {
+          "waitsec": "12",
+          "billsec": "17",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0506880301"
+          }
+        }
+      ]
+    },
+    "5973796022": {
+      "companyID": "62710",
+      "generalCallID": "5973796022",
+      "callID": "5973796022",
+      "startTime": "1754628491",
+      "callType": "1",
+      "internalNumber": "1099",
+      "internalAdditionalData": "",
+      "externalNumber": "0933709571",
+      "waitsec": "14",
+      "billsec": "8",
+      "disposition": "ANSWER",
+      "recordingStatus": "uploaded",
+      "isNewCall": "0",
+      "whoHungUp": "",
+      "customerData": "",
+      "employeeData": {
+        "name": "ОК",
+        "email": "ksu.popovych1990@gmail.com"
+      },
+      "pbxNumberData": {
+        "number": "0932989421"
+      },
+      "historyData": [
+        {
+          "waitsec": "14",
+          "billsec": "8",
+          "disposition": "ANSWER",
+          "pbxNumberData": {
+            "number": "0932989421"
+          }
+        }
+      ]
+    }
+  }
+}
