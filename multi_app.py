@@ -59,13 +59,20 @@ bots = {
 # === Инициализация FastAPI ===
 app = FastAPI()
 
+# эндпоинт для Render health check
+@app.get("/healthz")
+async def health_check():
+    return {"status": "ok"}
+
 @app.on_event("startup")
 async def on_startup():
+    import asyncio
     for name, bot in bots.items():
         try:
             await bot["startup"]()
             await bot["set_webhook"]()
             print(f"✅ {name} успешно запущен и webhook установлен")
+            await asyncio.sleep(2)  # задержка, чтобы избежать Flood control
         except Exception as e:
             print(f"❌ Ошибка запуска {name}: {e}")
 
@@ -90,3 +97,4 @@ async def webhook_router(bot_name: str, request: Request):
 
 if __name__ == "__main__":
     uvicorn.run("multi_app:app", host="0.0.0.0", port=8000, reload=False)
+
